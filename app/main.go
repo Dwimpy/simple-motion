@@ -1,11 +1,9 @@
 package main
 
 import (
+	"github.com/Dwimpy/simple-motion/handlers"
 	"github.com/joho/godotenv"
 	"log/slog"
-	"os"
-
-	"github.com/Dwimpy/simple-motion/handlers"
 )
 
 func main() {
@@ -15,8 +13,5 @@ func main() {
 		slog.Error("Error loading .env file")
 	}
 
-	if err := handlers.RunServer(); err != nil {
-		slog.Error("Failed to start server!", "details", err.Error())
-		os.Exit(1)
-	}
+	server := handlers.NewServer()
 }

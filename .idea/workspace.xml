@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a2998ef-9364-418d-b8df-8e6d9b7c7275" name="Changes" comment="" />
+    <list default="true" id="6a2998ef-9364-418d-b8df-8e6d9b7c7275" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/server.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +63,7 @@
       <recent name="C:\Users\rob4abt\sources\repos\simple-motion" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\msys64\home\andreirobu\projects\simple-motion\db" />
       <recent name="C:\dev\msys64\home\andreirobu\projects\simple-motion\app" />
       <recent name="C:\dev\msys64\home\andreirobu\projects\simple-motion" />
       <recent name="C:\dev\msys64\home\andreirobu\projects\simple-motion\handlers" />
